@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>StatusBar.qml</file>
+        <file>PulldownPanel.qml</file>
+    </qresource>
+</RCC>
